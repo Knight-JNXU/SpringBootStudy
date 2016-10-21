@@ -16,6 +16,7 @@ import org.springframework.web.bind.annotation.RestController;
  * 而是将内容通过 http 响应体返回给客户端
  */
 @RestController
+@RequestMapping(value = "/helloController")
 public class Hello {
 
     /**
