@@ -1,0 +1,2 @@
+spring boot 事件监听
+参考资料：http://blog.csdn.net/liaokailin/article/details/48186331
